@@ -54,7 +54,7 @@ This project is an STM32-based audio recorder that captures sound from a microph
 ## Wiring
 Connect the hardware as follows
 * Microphone to PA0
-* SD Card to SPI pins (check your board's manual)
+* SD Card to SPI pins 
 * SD Card CS to PB12
 
 
